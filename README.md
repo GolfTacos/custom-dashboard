@@ -8,6 +8,7 @@ Multi-Platform Integration: Run and manage Android apps via Windows Subsystem fo
 Custom Widgets: Create and organize custom widgets for various software applications, displaying real-time data or providing specific controls.
 Responsive Design: Fully responsive grid layout with drag-and-drop functionality, allowing users to arrange and customize the dashboard to suit their needs.
 Theming and Customization: Users can personalize the dashboard's appearance with custom themes and layouts.
+
 Technologies Used:
 
 React.js for the frontend framework
